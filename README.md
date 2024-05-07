@@ -9,5 +9,5 @@
 ![gulp](https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 
 ### Links
-[![github tech blog](https://img.shields.io/badge/tech_blog-181717?style=for-the-badge&logo=github&logoColor=white)](bunnyattic.github.io) 
+[![github tech blog](https://img.shields.io/badge/tech_blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://bunnyattic.github.io) 
 [![github tech blog](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yukim@bunnyattic.com)
